@@ -1,8 +1,6 @@
-
 enum class EnumClass {
     IDLE,CALLING,ANSWERED,RINGING
 }
-
 fun main() {
     var state= EnumClass.CALLING
     var message=
