@@ -1,7 +1,6 @@
-package Classes
+package classes
 
-import kotlin.random.Random
-
+//Singleton Class
 object  TempleteClass {
     fun getNumber(){
         var num= java.util.Random()

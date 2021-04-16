@@ -1,5 +1,5 @@
-package Classes
-
+package classes
+// Anonymous Inner Class
 fun rentPrice(normalDay : Int, festiveDays : Int){
     val dayRates = object {
         var standard: Int = 30;
