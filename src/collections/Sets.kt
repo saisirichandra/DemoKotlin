@@ -1,4 +1,4 @@
-package classes.collections
+package collections
 val issues: MutableSet<String> = mutableSetOf("issue1","issue2","issue 3","issue1")
 
 fun addIssue(issue: String):Boolean{
